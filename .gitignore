@@ -1,0 +1,11 @@
+#all tenporary output
+/debug
+__pycache__/*
+/outputs
+debug_log.txt
+
+#all shell scripts
+#*.sh
+
+#my hf hub script
+#push_to_hub.py
